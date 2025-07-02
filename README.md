@@ -2,7 +2,7 @@
 <html>
 <head>
   <meta charset="UTF-8">
-  <title>CalVerse Privacy Policy</title>
+ 
 </head>
 <body>
   <h1>Privacy Policy for CalVerse</h1>

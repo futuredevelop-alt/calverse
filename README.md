@@ -11,7 +11,7 @@
   <p><strong>Contact Email:</strong> akdevelopments007@gmail.com</p>
 
   <h2>1. Information We Collect</h2>
-  <p>CalVerse does not collect personal data. Voice input is processed locally. No analytics or crash reporting is used.</p>
+  <p>CalVerse does not collect perssonal datas . No analytics or crash reporting is used.</p>
 
   <h2>2. Advertisements</h2>
   <p>CalVerse uses Google AdMob for ads. AdMob may collect device identifiers (e.g., Advertising ID) for personalized ads. You can opt out in your device settings.</p>
